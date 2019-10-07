@@ -1,4 +1,4 @@
-package com.kemlyy.direction;
+package com.kemlyy.direction.Activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -6,8 +6,8 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 import android.view.View;
-import android.view.Window;
-import android.view.WindowManager;
+
+import com.kemlyy.direction.R;
 
 public class SplashAct extends AppCompatActivity {
 

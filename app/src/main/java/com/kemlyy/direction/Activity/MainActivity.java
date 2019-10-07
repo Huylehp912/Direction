@@ -1,8 +1,10 @@
-package com.kemlyy.direction;
+package com.kemlyy.direction.Activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.kemlyy.direction.R;
 
 public class MainActivity extends AppCompatActivity {
 
